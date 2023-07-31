@@ -14,7 +14,7 @@
 ---
 include:
   - board: mikoto_520
-    shield: two_percent_milk
+    shield: bine_wireless_knob
 include:
   - board: mikoto_520
-    shield: two_percent_milk
+    shield: bine_wireless_knob
