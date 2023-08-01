@@ -9,7 +9,7 @@
         label = "KSCAN";
 
         input-gpios
-            = <&gpio 20 (GPIO_ACTIVE_LOW | GPIO_PULL_UP)>
+            = <&arduino-pro-micro 20 (GPIO_ACTIVE_LOW | GPIO_PULL_UP)>
             ;
 
     };
