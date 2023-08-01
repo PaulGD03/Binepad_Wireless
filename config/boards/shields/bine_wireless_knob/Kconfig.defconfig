@@ -1,0 +1,6 @@
+if SHIELD_BINE_WK
+
+config ZMK_KEYBOARD_NAME
+    default "Bine WK"
+
+endif
