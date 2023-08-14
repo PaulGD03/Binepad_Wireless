@@ -9,7 +9,7 @@
         label = "KSCAN";
 
         input-gpios
-            = <&pro_micro 11 (GPIO_ACTIVE_LOW | GPIO_PULL_UP)>
+            = <&pro_micro B4 (GPIO_ACTIVE_LOW | GPIO_PULL_UP)>
             ;
 
     };
